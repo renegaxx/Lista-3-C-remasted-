@@ -1,0 +1,7 @@
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\bin\Debug\Lista 3 C# (remasted).exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\bin\Debug\Lista 3 C# (remasted).exe
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\bin\Debug\Lista 3 C# (remasted).pdb
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\obj\Debug\Lista 3 C# (remasted).csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\obj\Debug\Lista 3 C# (remasted).csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\obj\Debug\Lista 3 C# (remasted).exe
+C:\Users\renan\OneDrive\Área de Trabalho\trabalho\Lista 3 C# (remasted)\Lista 3 C# (remasted)\obj\Debug\Lista 3 C# (remasted).pdb
